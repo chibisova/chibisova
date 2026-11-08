@@ -4,7 +4,7 @@ Graphics & 3D Vision Engineer in Daejeon, South Korea. I work on recovering and 
 
 **Currently working on**
 - [**AvatarPlayground**](https://github.com/chibisova/AvatarPlayground): monocular visual odometry and 3D reconstruction in C++/OpenCV, extending toward parametric human mesh recovery (MHR, GNM)
-- **MHR Mesh Viewer** (coming soon): a Qt/OpenGL viewer for the MHR body model, plus real-time measurement-driven shape fitting via Jacobians
+- [**AvatarStudio**](https://github.com/chibisova/AvatarStudio): a Qt/OpenGL viewer for the MHR body model, plus real-time measurement-driven shape fitting via Jacobians
 
 **Tools:** C++ · Python · C# · HLSL/GLSL · OpenGL · OpenCV · PyTorch · Unity · Blender
 
