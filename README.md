@@ -9,4 +9,4 @@ Graphics & 3D Vision Engineer in Daejeon, South Korea. I work on recovering and 
 
 **Tools:** Python · C++ · C# · HLSL/GLSL · OpenGL · OpenCV · PyTorch · Unity · Blender
 
-🌐 [chibisova.github.io](https://chibisova.github.io/) · 📄 [CV](https://drive.google.com/file/d/1PZo_ISqoW5--Voz1MluI7Q52-b5lZi1M/view?usp=drive_link) · 💼 [LinkedIn](https://www.linkedin.com/in/tachibis/)
+🌐 [chibisova.github.io](https://chibisova.github.io/) · 📄 [CV](https://drive.google.com/file/d/1kbxeR2Q35QXbbg4fOmuySDirrgnrNEbD/view?usp=drive_link) · 💼 [LinkedIn](https://www.linkedin.com/in/tachibis/)
